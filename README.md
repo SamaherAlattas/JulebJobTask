@@ -1,9 +1,9 @@
 <h1>Docker image for NestJS serving Ionic React app </h1>
 
 <h3>Steps</h3>
-<lu>create react app 
+<ul>create react app 
 1-install cli
-2-ionic</lu>
+2-ionic</ul>
 <lu>create nestjs file</lu>
 <lu>install docker</lu>
 <lu>create docker image </lu>
