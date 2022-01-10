@@ -4,8 +4,8 @@
 <ul>create react app 
 1-install cli
 2-ionic</ul>
-<lu>create nestjs file</lu>
-<lu>install docker</lu>
-<lu>create docker image </lu>
-<lu>create docker-compose</lu>
-<lu>push code to github</lu>
+<ul>create nestjs file</ul>
+<ul>install docker</ul>
+<ul>create docker image </ul>
+<ul>create docker-compose</ul>
+<ul>push code to github</ul>
